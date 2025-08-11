@@ -66,3 +66,12 @@ Hi! I'm Miguel, passionate about technology, software, and electronics. Here you
 </div>
 
 
+## 🤝 Connect with me
+
+<p align="center">
+	<a href="mailto:mirukibs12.km@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/miguel-alejandro-alcendra-p%C3%A9rez-995883343/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/miguel.alcendra/?hl=es-la"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+
