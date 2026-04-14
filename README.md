@@ -76,6 +76,10 @@ Hi! I'm Miguel, passionate about technology, software, and electronics. Here you
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </span>
 
+  <h4> Hosting/SaaS </h4>
+    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+</span>
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
