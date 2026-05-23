@@ -13,15 +13,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hi! I'm Miguel, passionate about technology, software, and electronics. Here you won't just see code, you'll see style. I customize my environment, my tools, and my projects to reflect who I am: someone who doesn't follow the mold, reinvents it.
-
-💻 Technologist in training – Software Analysis and Development (SENA)
-
-🔌 Electronics and automation enthusiast
-
-🧠 Always learning something new (and doing it my way)
-
-⚔️ I mix code, hardware, and discipline like in martial arts
+I am a Software Analysis and Development student at **SENA**, passionate about bridging the gap between hardware infrastructure and scalable software solutions. With a background in hardware maintenance and a deep interest in the Linux ecosystem, I focus on building efficient, logic-driven applications.
 
 "I'm not just a developer; I'm the one who transforms each project into something unique."
 - 📫 Reach out to me at: <a href="muguel.alealcendra@gmail.com">muguel.alealcendra@gmail.com</a>
